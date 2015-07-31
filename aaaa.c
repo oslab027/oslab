@@ -6,5 +6,5 @@ Hi GitHub
 int main()
 {
 
-    printf("hello");
+    printf("HELLO");
 }
